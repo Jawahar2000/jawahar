@@ -1,0 +1,158 @@
+body{
+    text-align: center;
+    
+    font-family: 'Merriweather', serif;
+}
+
+h2{
+    padding: 40px;
+}
+
+#title {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+  }
+
+.container-fluid{
+  padding: 2% 15%;
+}
+
+.navbar {
+    padding: 0 0 0;
+ }
+
+.navbar-brand {
+    font-family: "Roboto Slab";
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+.nav-item {
+    padding: 0 2px;
+  }
+  
+.nav-link {
+    font-size: 1rem;
+    font-family: "Montserrat-Light";
+  }
+  
+.top-container{
+    text-align: center;
+    padding: 230px 0px;
+    color: black;
+}
+
+.middle-container { 
+   padding: 50px;
+   text-align: center;
+   background-color: black;
+   color: whitesmoke;
+}
+
+.bottom-container { 
+    text-align: center;
+    background-color:black;
+    padding: 50px 0 20px;
+}
+
+.skills{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    padding: 50px 15px;
+}
+
+.skill-row {
+    text-align: center;
+    line-height: 2;
+}
+
+.comp {
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+}
+
+.micro {
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+}
+
+p {
+    padding: 20px 100px;
+    line-height: 2;
+    font-size: larger;
+} 
+
+.cr {
+    color:whitesmoke;
+}
+
+  a {
+      color: #11999E;
+      font-family: 'Merriweather', serif;
+      margin: 10px 20px;
+      text-decoration: none;
+  }
+  
+  a:hover {
+      color: whitesmoke!important;
+  }
+
+  .project {
+      text-align: center;  
+      padding: 50px;   
+  }
+
+  .nut{
+      height: 150px;
+      width: 150px;
+      padding: 20px;
+ }
+
+ .certified{
+     text-align: center;  
+ }
+
+ #certificate{
+     padding: 15px;
+ }
+
+ .google{
+     height: 150px;
+     width: 150px;
+ }
+
+ .accenture{
+     height: 150px;
+     width: 150px;
+     padding: 30px;
+ }
+
+ .adobe{
+    height: 150px;
+    width: 200px;
+    padding: 10px ;
+ }
+
+ ::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+
+
+
